@@ -13,18 +13,23 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
-      - name: generate-snake-animation
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Generate animasi ular warna ungu
+      - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg?color_snake=%23A855F7&color_dots=%23161b22,%233c096c,%235a189a,%237b2cbf,%239d4edd
 
-      - name: push-snake-to-output-branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      # Deploy ke branch 'output' menggunakan v4 (Node.js terbaru)
+      - name: Push github-snake.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
