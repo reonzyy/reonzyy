@@ -12,13 +12,16 @@
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31powyq4xunm3ltyud5fghy7dx3q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&pr[...]" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31powyq4xunm3ltyud5fghy7dx3q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&pr[...]
   </a>
 </p>
 
   <p align="center">
     <a href="https://tiktok.com/@reonzy33" target="_blank">
       <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=ffffff&borderColor=ffffff" alt="TikTok" />
+    </a>
+    <a href="https://pinterest.com/reonzy/" target="_blank">
+      <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=ffffff&borderColor=ffffff" alt="Pinterest" />
     </a>
     <a href="https://instagram.com/reonzyyx" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ffffff&borderColor=ffffff" alt="Instagram" />
