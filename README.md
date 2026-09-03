@@ -12,13 +12,13 @@
 
   <p align="center">
     <a href="https://tiktok.com/@reonzy33" target="_blank">
-      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=A855F7&borderColor=A855F7" alt="TikTok" />
+      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=#1fc916&borderColor=#1fc916" alt="TikTok" />
     </a>
     <a href="https://instagram.com/reonzyyx" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=A855F7&borderColor=A855F7" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=#1fc916&borderColor=#1fc916" alt="Instagram" />
     </a>
     <a href="https://github.com/reonzyy" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=A855F7&borderColor=A855F7" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=#1fc916&borderColor=#1fc916" alt="GitHub" />
     </a>
   </p>
 
