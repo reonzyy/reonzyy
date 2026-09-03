@@ -1,9 +1,7 @@
 <div align="center">
 
-  <!-- Header Banner / GIF -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Reonzyy&fontSize=45&fontColor=ffffff&animation=twinkling" width="100%" />
 
-  <!-- Typing Effect Subtitle -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Tech+Enthusiast+%26+Developer;Crafting+cool+digital+experiences." alt="Typing SVG" />
   </a>
@@ -12,7 +10,6 @@
     <i>"Transforming ideas into elegant code with a touch of violet elegance."</i>
   </p>
 
-  <!-- Social Badges -->
   <p align="center">
     <a href="https://tiktok.com/@reonzy33" target="_blank">
       <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=A855F7&borderColor=A855F7" alt="TikTok" />
@@ -29,7 +26,7 @@
 
 ---
 
-### 🔮 About Me
+### About Me XD
 
 ```javascript
 const reonzyy = {
