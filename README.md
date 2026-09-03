@@ -5,9 +5,8 @@
 
   <!-- Typing Effect Subtitle -->
 <p align="center">
-  <img src="https://media.tenor.com/L13-b5MThw4AAAAC/eren-mikasa.gif" width="100%" alt="Eren Mikasa">
-</p>
-  <p align="center">
+  <img src="eren-mikasa.gif" width="100%" alt="Eren & Mikasa">
+</p>  <p align="center">
     <i>"Learn. fail. learn. fail. learn. success."</i>
   </p>
 
