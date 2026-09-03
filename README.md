@@ -10,6 +10,12 @@
     <i>"I hate how human was hating each other."</i>
   </p>
 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31powyq4xunm3ltyud5fghy7dx3q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=d43efe&bar_color_cover=false">
+  </a>
+</p>
+
   <p align="center">
     <a href="https://tiktok.com/@reonzy33" target="_blank">
       <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=9500ff&borderColor=9500ff" alt="TikTok" />
@@ -21,14 +27,7 @@
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=9500ff&borderColor=9500ff" alt="GitHub" />
     </a>
   </p>
-
 </div>
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31powyq4xunm3ltyud5fghy7dx3q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profan[...]
-  </a>
-</p>
 
 ---
 
