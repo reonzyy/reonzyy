@@ -1,16 +1,14 @@
 <div align="center">
 
-  <div align="center">
-    <table border="0" cellspacing="0" cellpadding="0">
-      <tr>
-        <td background="eren-mikasa.gif" align="center" width="1000" height="220" style="background-size: cover; background-position: center;">
-          <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=100&lines=Reonzyy" alt="Typing SVG" />
-          </a>
-        </td>
-      </tr>
-    </table>
-  </div>
+  <svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+    <image href="eren-mikasa.gif" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" />
+    
+    <rect width="100%" height="100%" fill="black" opacity="0.3" />
+    
+    <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="52" fill="#FFFFFF" letter-spacing="2">
+      Reonzyy
+    </text>
+  </svg>
 
   <br />
 
