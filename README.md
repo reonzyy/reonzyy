@@ -4,9 +4,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Reonzyy&fontSize=45&fontColor=ffffff&animation=twinkling" width="100%" />
 
   <!-- Typing Effect Subtitle -->
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=FF0000&background=FFFFFF&center=true&vCenter=true&width=500&lines=Hi%2C+My+name+is+Reonzy!" alt="Typing SVG" />  </a>
-
+<p align="center">
+  <img src="https://c.tenor.com/L13-b5MThw4AAAAC/eren-mikasa.gif" width="100%" alt="Eren & Mikasa Landscape GIF">
+</p>
   <p align="center">
     <i>"Learn. fail. learn. fail. learn. success."</i>
   </p>
