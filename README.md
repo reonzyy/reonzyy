@@ -29,26 +29,6 @@
   </p>
 </div>
 
----
-
-### About Me XD
-
-```javascript
-const reonzyy = {
-  username: "reonzyy",
-  vibe: "Dark & Purple Aesthetic",
-  passions: ["Web Development", "Content Creation", "UI/UX Design"],
-  currentFocus: "Building cool projects & growing my creative channels",
-  socials: {
-    tiktok: "@reonzy33",
-    instagram: "@reonzyyx",
-    github: "reonzyy"
-  }
-};
-```
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reonzyy/reonzyy/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reonzyy/reonzyy/output/pacman-contribution-graph.svg">
