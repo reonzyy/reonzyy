@@ -1,21 +1,27 @@
 <div align="center">
 
-  <svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-    <image href="eren-mikasa.gif" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" />
+  <!-- Header Banner GIF + Overlay Teks -->
+  <svg width="100%" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+    <!-- Menggunakan Direct Raw Link GitHub agar lolos sanitasi -->
+    <image href="https://raw.githubusercontent.com/reonzyy/reonzyy/main/eren-mikasa.gif" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" />
     
-    <rect width="100%" height="100%" fill="black" opacity="0.3" />
+    <!-- Lapisan Gelap Transparan agar Teks Tetap Jelas -->
+    <rect width="100%" height="100%" fill="black" opacity="0.35" />
     
-    <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="52" fill="#FFFFFF" letter-spacing="2">
+    <!-- Teks Reonzyy -->
+    <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="52" fill="#FFFFFF" letter-spacing="3">
       Reonzyy
     </text>
   </svg>
 
   <br />
 
+  <!-- Subtitle Quote -->
   <p align="center">
     <i>"Learn. fail. learn. fail. learn. success."</i>
   </p>
 
+  <!-- Social Badges -->
   <p align="center">
     <a href="https://tiktok.com/@reonzy33" target="_blank">
       <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=A855F7&borderColor=A855F7" alt="TikTok" />
