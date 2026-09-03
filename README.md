@@ -41,3 +41,13 @@ const reonzyy = {
   },
 };
 ```
+
+---
+
+### Listening to :
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31powyq4xunm3ltyud5fghy7dx3q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=true&bar_color=d43efe&bar_color_cover=false">
+  </a>
+</p>
