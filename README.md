@@ -43,8 +43,8 @@ const reonzyy = {
   socials: {
     tiktok: "@reonzy33",
     instagram: "@reonzyyx",
-    github: "reonzyy",
-  },
+    github: "reonzyy"
+  }
 };
 ```
 
