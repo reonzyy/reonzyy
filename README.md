@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1fc916&height=200&section=header&text=Reonzyy&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1fc916&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Tech+Enthusiast+%26+Developer!;Content+Creator;UI/UX+Designer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1fc916&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!" />
   </a>
 
   <p align="center">
@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31powyq4xunm3ltyud5fghy7dx3q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31powyq4xunm3ltyud5fghy7dx3q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profan[...]
   </a>
 </p>
 
