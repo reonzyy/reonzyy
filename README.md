@@ -1,16 +1,23 @@
 <div align="center">
 
-  <!-- Header Banner / GIF -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Reonzyy&fontSize=45&fontColor=ffffff&animation=twinkling" width="100%" />
+  <div align="center">
+    <table border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td background="eren-mikasa.gif" align="center" width="1000" height="220" style="background-size: cover; background-position: center;">
+          <a href="https://git.io/typing-svg">
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=100&lines=Reonzyy" alt="Typing SVG" />
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
 
-  <!-- Typing Effect Subtitle -->
-<p align="center">
-  <img src="eren-mikasa.gif" width="100%" alt="Eren & Mikasa">
-</p>  <p align="center">
+  <br />
+
+  <p align="center">
     <i>"Learn. fail. learn. fail. learn. success."</i>
   </p>
 
-  <!-- Social Badges -->
   <p align="center">
     <a href="https://tiktok.com/@reonzy33" target="_blank">
       <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=A855F7&borderColor=A855F7" alt="TikTok" />
@@ -41,4 +48,3 @@ const reonzyy = {
     github: "reonzyy",
   },
 };
-```
