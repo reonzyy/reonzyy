@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3d91ff&height=200&section=header&text=Reonzyy&fontSize=40&fontColor=ffffff&animation=twinkling&fontFace=Minecraftia" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=#82d0e8&height=200&section=header&text=Reonzyy&fontSize=40&fontColor=ffffff&animation=twinkling&fontFace=Minecraftia" width="100%" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Minecraftia&weight=600&size=22&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!" />
